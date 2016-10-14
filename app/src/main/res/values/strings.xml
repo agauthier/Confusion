@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Confusion</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_grids">Grids</string>
+    <string name="play_us">Play US</string>
+    <string name="play_russia">Play Russia</string>
+    
+</resources>
